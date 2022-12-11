@@ -116,7 +116,10 @@
     },{
         "name": "花安",
         "type": 1,
-        "url": "https://parse.ikunfk.cc/parse/sign/ebbdc5db7f777a1d386b96b7d56106c5?url="
+        "url": "https://parse.ikunfk.cc/parse/sign/d1997de72c389277d3f6332e365465c9?url="
+		,"ext": 
+		{"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+		"header": {"User-Agent": "Mozilla/5.0"}}
     },{
 		"name": "RX",
 		"type": 1,
