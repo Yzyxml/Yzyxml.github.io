@@ -1,13 +1,13 @@
-# 修改自用
+//修改自用
 {
-# jar+壁纸
+//jar+壁纸
  "spider":"http://我不是.肥猫.love:63/Jar/panda1216.jar;md5;F47CB3EA66749BE3AFFF738746182CF8",
  "wallpaper":"https://tool.weetai.cn/api",
 
-# 电视直播
+//电视直播
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvYnJhbmNoL21hc3Rlci9saXZlMjAyMjA4MTMudHh0"]}]}],
 
-# 接口
+//接口
 "sites":[
   {"key":"HuaAn","name":"🌼┃花安┃自用","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"js豆瓣","name":"🐼┃豆瓣┃D首页","type":3,"api":"http://id.ganggang.live:63/js/drpy2.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0}, 
@@ -95,7 +95,7 @@
   {"key":"高中","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0" },
   {"key":"push_agent","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"} ],
 
-# 解析接口  
+//解析接口  
 "parses":
 [ {"name":"Json并发","type":2,"url":"Parallel" },
   {"name":"Json轮询","type":2,"url":"Sequence" },
@@ -113,7 +113,7 @@
   {"name": "无名","type": 1,"url": "http://45.248.10.163:4433/json.php?wap=0&url="}
 ], 
 
-# 解码    
+//解码    
 "ijk":
 [ {"group":"软解码","options":[ {"category":4,"name":"opensles","value":"0" },
   {"category":4,"name":"overlay-format","value":"842225234" },
@@ -146,7 +146,7 @@
   {"category":4,"name":"mediacodec-hevc","value":"1" },
   {"category":1,"name":"dns_cache_timeout","value":"600000000"} ]} ], 
   
-#   广告过滤
+//广告过滤
   "ads":
   ["https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
   "mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn",
