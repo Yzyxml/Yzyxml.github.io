@@ -4,7 +4,7 @@
  "wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["http://花安.fun/live.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["https://agit.ai/66666/mao/raw/branch/master/live20220813.txt"]}]}],
 
 //数据接口
 "sites":[
