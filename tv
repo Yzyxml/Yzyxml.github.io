@@ -4,7 +4,7 @@
  "wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9odWFhbjEvMTEvLS9yYXcvbWFpbi9saXZlLnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9odWFhbnovMS8tL3Jhdy9tYWluL2xpdmUudHh0"]}]}],
 
 //数据接口
 "sites":[
