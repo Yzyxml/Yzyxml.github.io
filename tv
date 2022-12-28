@@ -4,7 +4,7 @@
  "wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvYnJhbmNoL21hc3Rlci9saXZlMjAyMjA4MTMudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["http://花安.fun/live"]}]}],
 
 //数据接口
 "sites":[
